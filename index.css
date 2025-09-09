@@ -1,7 +1,7 @@
 
 body {
 	font-family: sans-serif;
-	background-color: #f0f0f0;
+	background-color: #151515;
 }
 
 details {
@@ -25,11 +25,14 @@ h3 + p {
 }
 
 #mainwrap {
+        text-shadow: -1px 1px 0 black;
+        color: #ffffff;
 	max-width: 40em;
 	margin: 1em auto 4em auto;
 	padding: 1em;
 	text-align: center;
 	background-color: white;
+        background-image: url("flag.png");
 	box-shadow: 0px 0px 1em #888;
 }
 
@@ -62,4 +65,20 @@ h3 + p {
 
 .alignleft {
 	text-align: left;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: red;
 }
