@@ -25,8 +25,8 @@ h3 + p {
 }
 
 #mainwrap {
-        text-shadow: -1px 1px 0 black;
-        color: #ffffff;
+        text-shadow:  1px -1px #700;
+        color: #FFFFFF;
 	max-width: 40em;
 	margin: 1em auto 4em auto;
 	padding: 1em;
