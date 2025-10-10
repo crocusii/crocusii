@@ -74,6 +74,8 @@ h3i + p {
 
 #hostinfo {
 	display: none;
+	color: #37F737;
+	font-family: Consolas;
 }
 
 #hostlink {
