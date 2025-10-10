@@ -1,5 +1,5 @@
 /https://github.com/crocusii/0/<br>
-./https://github.com/crocusii/1/<br>
+/https://github.com/crocusii/1/<br>
 ./https://github.com/crocusii/2/<br>
 ../https://github.com/crocusii/3/<br>
 .../https://github.com/crocusii/crocusii/<br>
