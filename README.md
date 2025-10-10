@@ -1,5 +1,5 @@
 ./https://github.com/crocusii/crocusii/<br>
-../../https://crocusii.github.io/crocusii/<br>
+./../https://crocusii.github.io/crocusii/<br>
 ../././https://github.com/crocusii/portal/archive/refs/heads/main.zip//<br>
 ../././https://github.com/crocusii/.portal/archive/refs/heads/main.zip///<br>
 # servefolder.dev
