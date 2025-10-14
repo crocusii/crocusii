@@ -17,7 +17,8 @@ https://github.com/crocusii/6/<br>
 \\\\\https://crocusii.github.io/crocusii/host3/.portal/index.html/
 \\\https://crocusii.github.io/crocusii/host4/∙portal/index.html/
 \\\\https://crocusii.github.io/crocusii/host5/・portal/index.html/
-\\\\\\https://crocusii.github.io/crocusii/host6/.portal/index.html/
+\\\\\\https://crocusii.github.io/crocusii/host6/.portal/index.html/<br>
+https://crocusii.github.io/crocusii/host/index.html/
 
 # servefolder.dev
 Serve a local folder of files in your browser for easy testing without having to run a server.
