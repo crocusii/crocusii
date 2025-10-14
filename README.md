@@ -12,7 +12,7 @@ https://crocusii.github.io/crocusii/<br>
 ......../...../...................../............./......../...../../.././https://github.com/crocusii/4/archive/refs/heads/main.zip/<br>
 https://github.com/crocusii/HashKey-Cutter/archive/refs/heads/main.zip/<br>
 https://github.com/crocusii/6/<br>
-\\https://crocusii.github.io/crocusii/host/.portal/index.html\\
+\\https://crocusii.github.io/crocusii/host/.portal/index.html/
 
 # servefolder.dev
 Serve a local folder of files in your browser for easy testing without having to run a server.
