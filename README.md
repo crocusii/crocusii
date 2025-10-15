@@ -1,4 +1,4 @@
-<img src="oMiu.png" width="72%" ></img>
+<img src="oMiu.png" width="72%" ></img><br>
 https://crocusii.github.io/crocusii/<br>
 /https://github.com/crocusii/0/<br>
 /https://github.com/crocusii/1/<br>
