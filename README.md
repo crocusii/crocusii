@@ -21,6 +21,8 @@ https://github.com/crocusii/6/<br>
 https://crocusii.github.io/crocusii/host/index.html/<br>
 .............\\https://github.com/crocusii/6/archive/refs/heads/main.zip/<br><br><br><br>
 \\\\\\\.......https://github.com/crocusii/7/<br>\\\\\\\.......https://github.com/crocusii/7/archive/refs/heads/main.zip
+<br><br>
+\\\\\\\.......https://github.com/crocusii/8/<br>\\\\\\\.......https://github.com/crocusii/8/archive/refs/heads/main.zip
 
 # servefolder.dev
 Serve a local folder of files in your browser for easy testing without having to run a server.
