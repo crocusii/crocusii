@@ -1,4 +1,9 @@
-## Crocusii (experimental games system utilizing cryptological features)
+## «·Crocusii·» (by µˈsɑf/)
+<br><br>
+·experimental games system utilizing cryptological features·
+
+# Table of Contents
+                        ·<br>
 https://github.com/crocusii/World<br>
 https://github.com/crocusii/Dungeon<br>
 <img src="oMiu.png" width="72%" ></img><br>
