@@ -3,7 +3,7 @@
 ·experimental games system utilizing cryptological features·
 
 # Table of Contents
-                        ·<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·<br>
 https://github.com/crocusii/World<br>
 https://github.com/crocusii/Dungeon<br>
 <img src="oMiu.png" width="72%" ></img><br>
